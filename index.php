@@ -1,6 +1,6 @@
 <?php
 
-echo "Bye";
+echo "fsdfsd";
 
 
 ?>
